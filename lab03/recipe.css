@@ -1,0 +1,33 @@
+
+h1 {
+	color: orangered;
+	font-family: fantasy;
+	padding: 5px;
+	background-color: gray;
+}
+
+ ul {
+ 	text-transform: lowercase;
+ 	font-family: monospace;
+ }
+
+ ol{
+ 	font-family:monospace;
+ }
+
+ body{
+ 	background-color: darkgray;
+ }
+
+ h3{
+ 	font-family: sans-serif;
+ }
+
+ h2{
+ 	font-family: sans-serif;
+ }
+
+.whole {
+    background-image: url(/images/whole.jpg);
+
+}
