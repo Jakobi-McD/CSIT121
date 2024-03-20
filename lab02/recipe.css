@@ -1,0 +1,38 @@
+
+body{
+    background-color:rgba(238, 234, 158, 0.864);
+}
+
+header{
+    background-color: beige;
+}
+
+h1{
+    text-transform: full-width;
+    color: rgba(238, 234, 158, 0.864);
+    font-size: 300%;
+    background-color: black;
+    margin-top: 5;
+    margin-bottom: 5;
+} 
+
+p{
+    padding: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+ol{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    padding: 2px;
+}
+
+h5{
+    padding: 10px;
+}
